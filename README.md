@@ -1,6 +1,6 @@
 # High School programming
 
-## NOTE: Many of the files here are in .fla and .swf format and thusly are incredbily difficult to run unless you have the Adobe Flash program installed on your computer.
+##### NOTE: Many of the files here are in .fla and .swf format and thusly are incredbily difficult to run unless you have the Adobe Flash program installed on your computer.
 
 Many of the files here are very rough builds and **cannot be guaranteed to work as expected** and only serve to highlight the creative process in game development plus act as a cloud storage for files in the event of my own personal hardware failure.
 
