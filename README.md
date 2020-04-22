@@ -4,7 +4,7 @@ Due to the deprecation of actionscript, and the flash format as a whole, many of
 
 The files and programs in this directory will no longer be updated by their original programmers(Myself and Caleb Pagel) and should be considered 100% complete. 
 
-### NOTE: Many of the files here are in .fla and .swf format and  are incredbily difficult to run unless you have the Adobe Flash program installed on your computer. 
+### Many of the source files, including the executables,require adobe flash compatibility in order to function.
 
 
 
